@@ -1,8 +1,8 @@
-# ChatGPT 中文版：国内免费使用指南~【2025/02/24 更新】    
+# ChatGPT 中文版：国内免费使用指南~【2025/02/25 更新】    
 
-**全面体验 [ChatGPT 中文版](https://www.yixiaai.com)，无需翻墙，支持 GPT-4、GPT-4o、o1、o3 及中文版功能服务！**
+**全面体验 [ChatGPT 中文版](https://chat.yixiaai.com)，无需翻墙，支持 GPT-4、GPT-4o、o1、o3 及中文版功能服务！**
 
-本指南旨在为用户提供全面的 **ChatGPT 中文版使用指南**，并整理了国内好用的 **[ChatGPT 镜像网站](https://chat.lify.vip)**和**官网使用教程**，无论是工作、学习还是日常生活，都能满足你的需要~
+本指南旨在为用户提供全面的 **ChatGPT 中文版使用指南**，并整理了国内好用的 **[ChatGPT 镜像网站](https://www.yixiaai.com)**和**官网使用教程**，无论是工作、学习还是日常生活，都能满足你的需要~
 
 ---
 
@@ -20,7 +20,7 @@
 
 ## 什么是 ChatGPT 中文版？
 
-[**ChatGPT 中文版**](https://www.yixiaai.com)是 OpenAI 开发的 ChatGPT 模型的中文专业版本，为中文用户提供更流畅、更精准的 AI 对话体验。
+[**ChatGPT 中文版**](https://chat.yixiaai.com)是 OpenAI 开发的 ChatGPT 模型的中文专业版本，为中文用户提供更流畅、更精准的 AI 对话体验。
 
 相较于官网，**ChatGPT 中文版**以下特色更适合国内用户：
 
@@ -34,10 +34,10 @@
 
 以下是精选的国内 **ChatGPT 中文版镜像网站**，提供更高效的使用体验：
 
-1. **一下AI ([www.yixiaai.com](https://www.yixiaai.com/))**
+1. **一下AI ([chat.yixiaai.com](https://chat.yixiaai.com/))**
    **ChatGPT中文版**，提供支持 GPT-4、4o、4o mini 及 o1、o3 的全模型，包含 AI绘画、AI插件、AI助手、AI PPT功能，使用简便。
 
-2. **AI智慧岛 ([chat.lify.vip](https://chat.lify.vip/))**  
+2. **AI智慧岛 ([chat.lify.vip](https://www.yixiaai.com/))**  
    **ChatGPT镜像网站**，多功能平台，支持 GPT-4、4o 及 o1、o3，适合各类用户需求。
 
 3. **AI指南 ([yixiaai.cn](https://yixiaai.cn/))**  
@@ -76,7 +76,7 @@
 
 ## 如何使用 ChatGPT 中文版？
 
-1. **选择中文站点**：访问推荐的中文站点（如 **[yixiaai.com](https://www.yixiaai.com)**）。
+1. **选择中文站点**：访问推荐的中文站点（如 **[yixiaai.com](https://chat.yixiaai.com)**）。
 2. **扫码使用**：
    - **扫码登录**：扫码即可登录。
    - **免注册**：直接进入聊天界面，输入问题即可获得回答。
